@@ -18,9 +18,9 @@ Physiological signals - 60 second window
 **EDA** - 5 Hz lowpass filter -> compute statistical features -> separate skin conductance level (SCL) (tonic) and skin conductance response (SCR) (phasic) per Choi [16] -> count number of peaks in SCR
 **TEMP** - statistical features calculated -> slope (∂_TEMP)
 
-![image.png](![image](https://user-images.githubusercontent.com/22334349/112694240-035ebb80-8e50-11eb-95fb-d7e1131be5fe.png)
+(![image](https://user-images.githubusercontent.com/22334349/112694240-035ebb80-8e50-11eb-95fb-d7e1131be5fe.png)
 
-![image.png](![image](https://user-images.githubusercontent.com/22334349/112694254-08bc0600-8e50-11eb-87eb-0dd3b2849642.png)
+(![image](https://user-images.githubusercontent.com/22334349/112694254-08bc0600-8e50-11eb-87eb-0dd3b2849642.png)
 
 [WESAD Dataset](https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29)
 
