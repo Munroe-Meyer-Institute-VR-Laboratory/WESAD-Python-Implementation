@@ -4,7 +4,7 @@ As part of our 20SU work, we will be developing a machine learning inferencing m
 To perform our prototyping, we will use an open-access dataset that was made for this project, the Wearable Stress and Affect Detection (WESAD) dataset from Robert Bosch GmbH.  The associated paper and dataset are below.
 
 **Paper Summarization**
-[[1] Schmidt, Philip, et al. "Introducing wesad, a multimodal dataset for wearable stress and affect detection." Proceedings of the 20th ACM International Conference on Multimodal Interaction. 2018.](/.attachments/IntroducingWESADaMultimodalDatasetforWearableStressandAffectDetection-ff46938e-1a0e-4543-9419-e16556cb2621.pdf)
+[1] Schmidt, Philip, et al. "Introducing wesad, a multimodal dataset for wearable stress and affect detection." Proceedings of the 20th ACM International Conference on Multimodal Interaction. 2018.
 
 This work focuses on the creation and documentation of a standardized, multi-modal, physiological signal dataset that can be used for affective computing.  Their dataset comprises a two sensor dataset: 1) the empatica E4 and 2) a RespiBAN Professional chest-worn device. They defined their experimental design as having two main conditions: amusement and stress, shown below.
 ![image.png](![image](https://user-images.githubusercontent.com/22334349/112694218-f6da6300-8e4f-11eb-8350-5ffe81b76af2.png)
